@@ -55,7 +55,7 @@ using (true)
 with check (true);
 
 insert into public.products (name,price,category,description) values
-('Lumière Pearl Studs',38,'Jewelry','Minimal freshwater pearl earrings.'),
+('CCshoppingmail Pearl Studs',38,'Jewelry','Minimal freshwater pearl earrings.'),
 ('Sculpted Gold Ring',46,'Jewelry','A polished everyday statement ring.'),
 ('Silk Glow Lip Oil',24,'Beauty','Lightweight shine with a soft finish.'),
 ('Soft Veil Blush',29,'Beauty','Buildable color for an effortless look.'),

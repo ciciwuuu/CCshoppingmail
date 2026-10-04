@@ -1,4 +1,4 @@
-# LUMIÈRE — Admin + Customer Store
+# CCshoppingmail — Admin + Customer Store
 
 ## What this project does
 - Customer site: `/`
@@ -29,3 +29,6 @@ Only the authenticated Supabase admin account should be able to edit products/or
 
 IMPORTANT
 The current checkout creates a database order but DOES NOT process real card payments. Before accepting real payments, connect a proper payment provider and secure the order/payment flow on a server-side backend.
+
+
+Store brand: CCshoppingmail
